@@ -1,0 +1,14 @@
+{
+  "name": "angulargirlskc-nametags",
+  "version": "1.0.0",
+  "description": "Create nametags for ngGirlsKC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node index.js"
+  },
+  "author": "Kansas City Women in Technology",
+  "dependencies": {
+    "jimp": "^0.13.0"
+  }
+}
